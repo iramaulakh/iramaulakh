@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Iram Fatima
 
-<!--
-**iramaulakh/iramaulakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Communications Engineering & Data Science  
+Aalto University 🇫🇮 / Grenoble INP 🇫🇷
 
-Here are some ideas to get you started:
+## Interests
+- Machine Learning
+- Wireless Networks / 6G
+- Deep Learning
+- Computer Vision
+- Data Science 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+- Master's Thesis on Fine-tuning & Evaluation of Multimodal LLMs
+- ML Projects
+- Research Preparation for PhD
+
+## Tools
+Python, Pandas, NumPy, Scikit-learn, PyTorch, MATLAB, SQL
+
+## Reach Me
+LinkedIn: https://www.linkedin.com/in/iram-/
