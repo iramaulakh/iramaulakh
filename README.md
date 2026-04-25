@@ -1,4 +1,4 @@
-# Hi, I'm Iram Fatima
+# Hi, I'm Iram Fatima Aulakh
 
 Master's student in Communications Engineering & Data Science  
 Aalto University 🇫🇮 / Grenoble INP 🇫🇷
